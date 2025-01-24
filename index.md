@@ -2,7 +2,7 @@
 
 
 
-**Top ten about CS193**
+**Top ten things in CS193**
 - Doing class online when it was 0° outside
 - Resonable amounts of homework
 - Only one day of required class per week
