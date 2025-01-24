@@ -1,6 +1,20 @@
-### Welcome to GitHub Pages
+# Aria's First CS193 Homework
 
-# **_Test_**
+
+
+**Top ten about CS193**
+-Doing class online when it was 0° outside
+-Resonable amounts of homework
+-Only one day of required class per week
+-Lecturer's dont seem to have a god complex
+-The emphasis on a chill class
+-The terminal
+-Simplified explanations of complex ideas
+-Lecturer's answer questions well
+-Clean slide shows
+-Vim is cool
+
+### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
