@@ -13,6 +13,7 @@
 -Lecturer's answer questions well
 -Clean slide shows
 -Vim is cool
+-
 
 ### Welcome to GitHub Pages
 
